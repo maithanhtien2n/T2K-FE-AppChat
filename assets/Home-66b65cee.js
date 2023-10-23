@@ -1,0 +1,1 @@
+import{_ as e,d as t,o as n}from"./index-3c518d5b.js";const c={},o={class:"w-full h-full flex align-items-center justify-content-center text-2xl text-main-color"};function s(r,l){return n(),t("div",o," Chào mừng bạn đến Tchat ")}const _=e(c,[["render",s]]);export{_ as default};
